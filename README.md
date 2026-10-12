@@ -10,6 +10,29 @@ InternNova Homepage Redesign is a front-end web development project focused on c
 
 The website features a modern layout, a soft lavender visual theme, responsive sections, and clear navigation to help visitors explore the platform.
 
+
+📸 Screenshots
+
+Homepage
+
+![InternNova Homepage](screenshots/homepage.png.png)
+
+About and Benefits
+
+![About and Benefits](screenshots/about-benefits.png.png)
+
+Programs and Workshops
+
+![Programs and Workshops](screenshots/programworkshops.png.png)
+
+Testimonials and Footer
+
+![Testimonials and Footer](screenshots/testimonials-footer.png.png)
+
+About InternNova
+
+![About InternNova](screenshots/about-InternNova.png.png)
+
 ✨ Features
 
 - Responsive Design: Adapts to desktop, tablet, and mobile screens.
